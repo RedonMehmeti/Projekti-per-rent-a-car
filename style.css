@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+box-sizing: border-box;
+}
+body{
+ background-color: #5E8693;
+ 
+}
+.logo{
+    width: 85px;
+    height: 85px;
+    
+    
+
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.audia{
+position: absolute;
+bottom: 0px;
+right: 0px;
+width: 50%;
+height: 60%;
+}
+.nav1{
+    width: 100vw;
+    height:100px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 7% ;
+    
+    
+}
+    .link{
+        background-color:white;
+        border-radius: 20px;
+        padding: 20px;
+    }
+    .navitems{
+       
+        width: 70%;
+        height: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 5%;
+    }
+    a{
+        background-color: white;
+        border-radius: 5px;
+         padding: 20px;  
+        
+       
+       
+        }
+        
+    .test{
+        position: absolute;
+        bottom: 15%;
+        left: 10%;
+        background-color: #92C6C3;
+        border-radius: 20px;
+
+    }
+a{
+    color: black;
+    text-decoration: none;
+}
+.rapa,.vetur{
+    font-weight: bold;
+    font-size: 50px;
+   padding-left: 100px;
+}
+.vetur{
+    padding-left: 200px;
+    padding-top: 220px;
+    
+}
+.para{
+    padding-left:185px;
+}
